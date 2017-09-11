@@ -1,6 +1,8 @@
 # FireTest
 
-This is a test for Firebase. You can add or retrieve data from the database
+This is a test for Firebase. You can add by typing text into the text area and clicking the button.
+
+When the website loads, it retrieves data from the DB and displays it down in the text area.
 
 ## DB Structure
 
