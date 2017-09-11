@@ -6,11 +6,11 @@ This is a test for Firebase. You can add or retrieve data from the database
 
 
 
-###firebase_nonsense_string:
+### firebase_nonsense_string:
 
-####Heading: "Firebase New App"
+#### Heading: "Firebase New App"
 
-####Things
+#### Things
 
 -KtjgnrYNjfUSrkcRo_i: "One thing"
 
